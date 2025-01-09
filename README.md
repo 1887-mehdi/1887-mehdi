@@ -3,13 +3,17 @@
 About Me 👋
 
 Hi! I’m a frontend developer passionate about creating beautiful and functional websites. My expertise lies in HTML, CSS, JavaScript, and frameworks like JQuery. Additionally, I have extensive experience with WordPress, enabling me to build dynamic and optimized websites.
+
 My Projects 🚀
+
 What am I currently working on?
 
 🔧 Developing an Online Store Website:
+
 I’m currently working on building a fully functional online store, similar to platforms like Amazon. This project emphasizes an attractive design, user-friendly navigation, and seamless access to various features for customers. The completed website will be showcased here once it’s ready.
 
 🔧 Custom WordPress Theme Development:
+
 I’m designing a lightweight, fast, and responsive WordPress theme, ideal for blogs and corporate websites.
 
 My Skills 💻
