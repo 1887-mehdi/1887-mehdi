@@ -11,6 +11,7 @@ I’m currently working on building a fully functional online store, similar to 
 
 🔧 Custom WordPress Theme Development:
 I’m designing a lightweight, fast, and responsive WordPress theme, ideal for blogs and corporate websites.
+
 My Skills 💻
 
     Frontend Development: HTML5, CSS3, JavaScript (ES6+), JQuery
