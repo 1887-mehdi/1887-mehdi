@@ -41,25 +41,11 @@ I’m working on a **lightweight, fast, and responsive WordPress theme**, ideal 
 
 ## 📬 Contact Me
 
-<div align="center">
-  <!-- Email Icon -->
-  <a href="mailto:mehdiebrahimnataj@gmail.com" style="text-decoration: none; color: black; display: inline-block; margin-right: 20px;">
-    <img src="https://img.icons8.com/?size=64&width=100&id=CXYJjRfKlwI9&format=png&color=000000" alt="Email Icon" style="width: 50px;">
-    <p>Email</p>
-  </a>
-  
-  <!-- Telegram Icon -->
-  <a href="https://t.me/mehdi_1887" style="text-decoration: none; color: black; display: inline-block; margin-right: 20px;">
-    <img src="https://img.icons8.com/?size=64&id=oWiuH0jFiU0R&format=png&color=000000" alt="Telegram Icon" style="width: 50px;">
-    <p>Telegram</p>
-  </a>
+| Email | Telegram | Instagram |
+|-------|----------|-----------|
+| [![Email](https://img.icons8.com/?size=54&width=100&id=CXYJjRfKlwI9&format=png&color=000000)](mailto:mehdiebrahimnataj@gmail.com) | [![Telegram](https://img.icons8.com/?size=54&id=oWiuH0jFiU0R&format=png&color=000000)](https://t.me/mehdi_1887) | [![Instagram](https://img.icons8.com/?size=54&id=Xy10Jcu1L2Su&format=png&color=000000)](https://instagram.com/1887.mehdi) |
+| ✅ **Active** | ✅ **Active** | ✅ **Active** |
 
-  <!-- Instagram Icon -->
-  <a href="https://instagram.com/1887.mehdi" style="text-decoration: none; color: black; display: inline-block;">
-    <img src="https://img.icons8.com/?size=64&id=Xy10Jcu1L2Su&format=png&color=000000" alt="Instagram Icon" style="width: 50px;">
-    <p>Instagram</p>
-  </a>
-</div>
 
 
 
