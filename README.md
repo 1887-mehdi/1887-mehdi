@@ -39,15 +39,44 @@ I’m working on a **lightweight, fast, and responsive WordPress theme**, ideal 
 
 ---
 
-## Contact Me 📬
+## 📬 Contact Me  
+---
 
-Feel free to reach out to me:  
+<div align="center" style="margin-bottom: 20px;">
+    <h3>Feel free to reach out to me!</h3>
+</div>
 
-| Platform      | Link                                     |
-|---------------|------------------------------------------|
-| [![Email](https://img.icons8.com/?size=20&width=100&id=CXYJjRfKlwI9&format=png&color=000000)](mailto:mehdiebrahimnataj@gmail.com) Email | [mehdiebrahimnataj@gmail.com](mailto:mehdiebrahimnataj@gmail.com) |
-| [![Telegram](https://img.icons8.com/?size=20&&id=oWiuH0jFiU0R&format=png&color=000000)](https://t.me/mehdi_1887) Telegram | [@mehdi_1887](https://t.me/mehdi_1887) |
-| [![Instagram](https://img.icons8.com/?size=20&id=Xy10Jcu1L2Su&format=png&color=000000)](https://instagram.com/1887.mehdi) Instagram | [1887.mehdi](https://www.instagram.com/1887.mehdi/) |
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+    
+  <!-- Email Card -->
+  <div style="border: 1px solid #ddd; border-radius: 8px; padding: 10px; text-align: center; width: 150px;">
+      <a href="mailto:mehdiebrahimnataj@gmail.com" style="text-decoration: none; color: black;">
+          <img src="https://img.icons8.com/?size=64&width=100&id=CXYJjRfKlwI9&format=png&color=000000" alt="Email Icon" style="width: 50px; margin-bottom: 8px;">
+          <h4>Email</h4>
+          <p style="font-size: 14px;">mehdiebrahimnataj@gmail.com</p>
+      </a>
+  </div>
+  
+  <!-- Telegram Card -->
+  <div style="border: 1px solid #ddd; border-radius: 8px; padding: 10px; text-align: center; width: 150px;">
+      <a href="https://t.me/mehdi_1887" style="text-decoration: none; color: black;">
+          <img src="https://img.icons8.com/?size=64&id=oWiuH0jFiU0R&format=png&color=000000" alt="Telegram Icon" style="width: 50px; margin-bottom: 8px;">
+          <h4>Telegram</h4>
+          <p style="font-size: 14px;">@mehdi_1887</p>
+      </a>
+  </div>
+  
+  <!-- Instagram Card -->
+  <div style="border: 1px solid #ddd; border-radius: 8px; padding: 10px; text-align: center; width: 150px;">
+      <a href="https://instagram.com/1887.mehdi" style="text-decoration: none; color: black;">
+          <img src="https://img.icons8.com/?size=64&id=Xy10Jcu1L2Su&format=png&color=000000" alt="Instagram Icon" style="width: 50px; margin-bottom: 8px;">
+          <h4>Instagram</h4>
+          <p style="font-size: 14px;">1887.mehdi</p>
+      </a>
+  </div>
+
+</div>
+
 
 
 
