@@ -39,99 +39,16 @@ I’m working on a **lightweight, fast, and responsive WordPress theme**, ideal 
 
 ---
 
-## 📬 Contact Me  
----
+## 📬 Contact Me
 
-<style>
-  @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&family=Roboto:wght@300;400;500&display=swap');
+Feel free to reach out to me:
 
-  body {
-    font-family: 'Poppins', sans-serif;
-    margin: 0;
-    padding: 0;
-  }
+| Platform      | Link                                     |
+|---------------|------------------------------------------|
+| ![Email](https://img.icons8.com/?size=32&id=CXYJjRfKlwI9&format=png&color=000000) Email | [mehdiebrahimnataj@gmail.com](mailto:mehdiebrahimnataj@gmail.com) |
+| ![Telegram](https://img.icons8.com/?size=32&id=oWiuH0jFiU0R&format=png&color=000000) Telegram | [@mehdi_1887](https://t.me/mehdi_1887) |
+| ![Instagram](https://img.icons8.com/?size=32&id=Xy10Jcu1L2Su&format=png&color=000000) Instagram | [1887.mehdi](https://instagram.com/1887.mehdi) |
 
-  .contact-header {
-    text-align: center;
-    font-size: 2rem;
-    font-weight: 600;
-    color: #333;
-    margin-bottom: 20px;
-  }
-
-  .contact-container {
-    display: flex;
-    justify-content: center;
-    flex-wrap: wrap;
-    gap: 20px;
-  }
-
-  .contact-card {
-    border: 1px solid #ddd;
-    border-radius: 8px;
-    padding: 15px;
-    text-align: center;
-    width: 160px;
-    background-color: #f9f9f9;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-    font-family: 'Roboto', sans-serif;
-  }
-
-  .contact-card h4 {
-    font-size: 1.2rem;
-    color: #000;
-    font-weight: 500;
-    margin-top: 10px;
-  }
-
-  .contact-card p {
-    font-size: 0.9rem;
-    color: #555;
-  }
-
-  .contact-card img {
-    width: 50px;
-    margin-bottom: 8px;
-  }
-
-  .contact-card a {
-    text-decoration: none;
-    color: inherit;
-  }
-</style>
-
-<div class="contact-header">Feel free to reach out to me!</div>
-
-<div class="contact-container">
-    
-  <!-- Email Card -->
-  <div class="contact-card">
-      <a href="mailto:mehdiebrahimnataj@gmail.com">
-          <img src="https://img.icons8.com/?size=64&width=100&id=CXYJjRfKlwI9&format=png&color=000000" alt="Email Icon">
-          <h4>Email</h4>
-          <p>mehdiebrahimnataj@gmail.com</p>
-      </a>
-  </div>
-  
-  <!-- Telegram Card -->
-  <div class="contact-card">
-      <a href="https://t.me/mehdi_1887">
-          <img src="https://img.icons8.com/?size=64&id=oWiuH0jFiU0R&format=png&color=000000" alt="Telegram Icon">
-          <h4>Telegram</h4>
-          <p>@mehdi_1887</p>
-      </a>
-  </div>
-  
-  <!-- Instagram Card -->
-  <div class="contact-card">
-      <a href="https://instagram.com/1887.mehdi">
-          <img src="https://img.icons8.com/?size=64&id=Xy10Jcu1L2Su&format=png&color=000000" alt="Instagram Icon">
-          <h4>Instagram</h4>
-          <p>1887.mehdi</p>
-      </a>
-  </div>
-
-</div>
 
 
 
