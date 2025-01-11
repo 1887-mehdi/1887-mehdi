@@ -43,26 +43,34 @@ I’m working on a **lightweight, fast, and responsive WordPress theme**, ideal 
 
 Feel free to reach out to me!
 
-<div align="left" style="display: inline-block; text-align: center; margin-right: 20px;">
-    <a href="mailto:mehdiebrahimnataj@gmail.com" style="text-decoration: none; color: black;">
-        <img src="https://img.icons8.com/?size=64&width=100&id=CXYJjRfKlwI9&format=png&color=000000" alt="Email Icon" style="width: 50px;">
-        <p>mehdiebrahimnataj@gmail.com</p>
-    </a>
+<div style="display: flex; justify-content: space-between; margin-top: 20px; gap: 30px;">
+
+    <!-- Email Card -->
+    <div style="width: 180px; background-color: #f5f5f5; padding: 20px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); text-align: center;">
+        <a href="mailto:mehdiebrahimnataj@gmail.com" style="text-decoration: none; color: black;">
+            <img src="https://img.icons8.com/?size=64&width=100&id=CXYJjRfKlwI9&format=png&color=000000" alt="Email Icon" style="width: 50px; margin-bottom: 10px;">
+            <p style="font-size: 16px; font-weight: bold;">mehdiebrahimnataj@gmail.com</p>
+        </a>
+    </div>
+
+    <!-- Telegram Card -->
+    <div style="width: 180px; background-color: #f5f5f5; padding: 20px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); text-align: center;">
+        <a href="https://t.me/mehdi_1887" style="text-decoration: none; color: black;">
+            <img src="https://img.icons8.com/?size=64&id=oWiuH0jFiU0R&format=png&color=000000" alt="Telegram Icon" style="width: 50px; margin-bottom: 10px;">
+            <p style="font-size: 16px; font-weight: bold;">@mehdi_1887</p>
+        </a>
+    </div>
+
+    <!-- Instagram Card -->
+    <div style="width: 180px; background-color: #f5f5f5; padding: 20px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); text-align: center;">
+        <a href="https://instagram.com/1887.mehdi" style="text-decoration: none; color: black;">
+            <img src="https://img.icons8.com/?size=64&id=Xy10Jcu1L2Su&format=png&color=000000" alt="Instagram Icon" style="width: 50px; margin-bottom: 10px;">
+            <p style="font-size: 16px; font-weight: bold;">1887.mehdi</p>
+        </a>
+    </div>
+
 </div>
 
-<div align="center" style="display: inline-block; text-align: center; margin-right: 20px;">
-    <a href="https://t.me/mehdi_1887" style="text-decoration: none; color: black;">
-        <img src="https://img.icons8.com/?size=64&id=oWiuH0jFiU0R&format=png&color=000000" alt="Telegram Icon" style="width: 50px;">
-        <p>@mehdi_1887</p>
-    </a>
-</div>
-
-<div align="right" style="display: inline-block; text-align: center;">
-    <a href="https://instagram.com/1887.mehdi" style="text-decoration: none; color: black;">
-        <img src="https://img.icons8.com/?size=64&id=Xy10Jcu1L2Su&format=png&color=000000" alt="Instagram Icon" style="width: 50px;">
-        <p>1887.mehdi</p>
-    </a>
-</div>
 
 
 
