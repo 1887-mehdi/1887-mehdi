@@ -46,7 +46,7 @@ I’m working on a **lightweight, fast, and responsive WordPress theme**, ideal 
 </div>
 
 <div style="display: flex; justify-content: space-between; align-items: center; gap: 20px; flex-wrap: wrap;">
-    
+  
   <!-- Email Card (Left) -->
   <div style="border: 1px solid #ddd; border-radius: 8px; padding: 15px; text-align: center; width: 180px; background-color: #f5f5f5; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
       <a href="mailto:mehdiebrahimnataj@gmail.com" style="text-decoration: none; color: #333;">
@@ -72,6 +72,7 @@ I’m working on a **lightweight, fast, and responsive WordPress theme**, ideal 
   </div>
 
 </div>
+
 
 
 
