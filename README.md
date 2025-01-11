@@ -41,22 +41,22 @@ I’m working on a **lightweight, fast, and responsive WordPress theme**, ideal 
 
 ## 📬 Contact Me
 
-Feel free to reach out to me!
-
-<div align="center">
+<div style="position: relative; text-align: center;">
+    <h3 style="z-index: 1;">Feel free to reach out to me!</h3>
     <!-- Email Card -->
-    <a href="mailto:mehdiebrahimnataj@gmail.com" style="text-decoration: none; color: black; display: block; text-align: center; margin-bottom: 20px;">
-        <img src="https://img.icons8.com/?size=64&width=100&id=CXYJjRfKlwI9&format=png&color=000000" alt="Email Icon" style="width: 50px; margin-bottom: 8px;">
+    <a href="mailto:mehdiebrahimnataj@gmail.com" style="position: absolute; left: 20%; top: 0; z-index: 0; text-decoration: none; color: black;">
+        <img src="https://img.icons8.com/?size=64&width=100&id=CXYJjRfKlwI9&format=png&color=000000" alt="Email Icon" style="width: 50px;">
     </a>
     <!-- Telegram Card -->
-    <a href="https://t.me/mehdi_1887" style="text-decoration: none; color: black; display: block; text-align: center; margin-bottom: 20px;">
-        <img src="https://img.icons8.com/?size=64&id=oWiuH0jFiU0R&format=png&color=000000" alt="Telegram Icon" style="width: 50px; margin-bottom: 8px;">
+    <a href="https://t.me/mehdi_1887" style="position: absolute; left: 50%; top: 0; transform: translateX(-50%); z-index: 0; text-decoration: none; color: black;">
+        <img src="https://img.icons8.com/?size=64&id=oWiuH0jFiU0R&format=png&color=000000" alt="Telegram Icon" style="width: 50px;">
     </a>
     <!-- Instagram Card -->
-    <a href="https://instagram.com/1887.mehdi" style="text-decoration: none; color: black; display: block; text-align: center;">
-        <img src="https://img.icons8.com/?size=64&id=Xy10Jcu1L2Su&format=png&color=000000" alt="Instagram Icon" style="width: 50px; margin-bottom: 8px;">
+    <a href="https://instagram.com/1887.mehdi" style="position: absolute; right: 20%; top: 0; z-index: 0; text-decoration: none; color: black;">
+        <img src="https://img.icons8.com/?size=64&id=Xy10Jcu1L2Su&format=png&color=000000" alt="Instagram Icon" style="width: 50px;">
     </a>
 </div>
+
 
 ---
 
