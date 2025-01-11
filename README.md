@@ -45,21 +45,20 @@ Feel free to reach out to me!
 
 <div align="center">
     <!-- Email Card -->
-    <a href="mailto:mehdiebrahimnataj@gmail.com" style="text-decoration: none; color: black;">
-        <img src="https://img.icons8.com/?size=64&width=100&id=CXYJjRfKlwI9&format=png&color=000000" alt="Email Icon" style="width: 50px; vertical-align: middle;">
-        <span style="font-size: 16px; vertical-align: middle; margin-left: 10px;">mehdiebrahimnataj@gmail.com</span>
+    <a href="mailto:mehdiebrahimnataj@gmail.com" style="text-decoration: none; color: black; display: block; text-align: center; margin-bottom: 20px;">
+        <img src="https://img.icons8.com/?size=64&width=100&id=CXYJjRfKlwI9&format=png&color=000000" alt="Email Icon" style="width: 50px; margin-bottom: 8px;">
+        <span style="font-size: 16px;">mehdiebrahimnataj@gmail.com</span>
     </a>
     <!-- Telegram Card -->
-    <a href="https://t.me/mehdi_1887" style="text-decoration: none; color: black; margin-left: 20px;">
-        <img src="https://img.icons8.com/?size=64&id=oWiuH0jFiU0R&format=png&color=000000" alt="Telegram Icon" style="width: 50px; vertical-align: middle;">
-        <span style="font-size: 16px; vertical-align: middle; margin-left: 10px;">@mehdi_1887</span>
+    <a href="https://t.me/mehdi_1887" style="text-decoration: none; color: black; display: block; text-align: center; margin-bottom: 20px;">
+        <img src="https://img.icons8.com/?size=64&id=oWiuH0jFiU0R&format=png&color=000000" alt="Telegram Icon" style="width: 50px; margin-bottom: 8px;">
+        <span style="font-size: 16px;">@mehdi_1887</span>
     </a>
     <!-- Instagram Card -->
-    <a href="https://instagram.com/1887.mehdi" style="text-decoration: none; color: black; margin-left: 20px;">
-        <img src="https://img.icons8.com/?size=64&id=Xy10Jcu1L2Su&format=png&color=000000" alt="Instagram Icon" style="width: 50px; vertical-align: middle;">
-        <span style="font-size: 16px; vertical-align: middle; margin-left: 10px;">1887.mehdi</span>
+    <a href="https://instagram.com/1887.mehdi" style="text-decoration: none; color: black; display: block; text-align: center;">
+        <img src="https://img.icons8.com/?size=64&id=Xy10Jcu1L2Su&format=png&color=000000" alt="Instagram Icon" style="width: 50px; margin-bottom: 8px;">
+        <span style="font-size: 16px;">1887.mehdi</span>
     </a>
-
 </div>
 
 ---
