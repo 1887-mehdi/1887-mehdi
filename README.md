@@ -41,30 +41,26 @@ I’m working on a **lightweight, fast, and responsive WordPress theme**, ideal 
 
 ## 📬 Contact Me
 
-<div style="display: flex; justify-content: flex-start; align-items: center; gap: 20px;">
-    <!-- Email Card -->
-    <div style="text-align: center;">
-        <a href="mailto:mehdiebrahimnataj@gmail.com" style="text-decoration: none; color: black;">
-            <img src="https://img.icons8.com/?size=64&width=100&id=CXYJjRfKlwI9&format=png&color=000000" alt="Email Icon" style="width: 50px; margin-bottom: 8px;">
-        </a>
-        <p style="font-size: 14px; margin: 0;">Email</p>
-    </div>
-    <!-- Telegram Card -->
-    <div style="text-align: center;">
-        <a href="https://t.me/mehdi_1887" style="text-decoration: none; color: black;">
-            <img src="https://img.icons8.com/?size=64&id=oWiuH0jFiU0R&format=png&color=000000" alt="Telegram Icon" style="width: 50px; margin-bottom: 8px;">
-        </a>
-        <p style="font-size: 14px; margin: 0;">Telegram</p>
-    </div>
-    <!-- Instagram Card -->
-    <div style="text-align: center;">
-        <a href="https://instagram.com/1887.mehdi" style="text-decoration: none; color: black;">
-            <img src="https://img.icons8.com/?size=64&id=Xy10Jcu1L2Su&format=png&color=000000" alt="Instagram Icon" style="width: 50px; margin-bottom: 8px;">
-        </a>
-        <p style="font-size: 14px; margin: 0;">Instagram</p>
-    </div>
+<div align="center">
+  <!-- Email Icon -->
+  <a href="mailto:mehdiebrahimnataj@gmail.com" style="text-decoration: none; color: black; display: inline-block; margin-right: 20px;">
+    <img src="https://img.icons8.com/?size=64&width=100&id=CXYJjRfKlwI9&format=png&color=000000" alt="Email Icon" style="width: 50px;">
+    <p>Email</p>
+  </a>
+  
+  <!-- Telegram Icon -->
+  <a href="https://t.me/mehdi_1887" style="text-decoration: none; color: black; display: inline-block; margin-right: 20px;">
+    <img src="https://img.icons8.com/?size=64&id=oWiuH0jFiU0R&format=png&color=000000" alt="Telegram Icon" style="width: 50px;">
+    <p>Telegram</p>
+  </a>
 
+  <!-- Instagram Icon -->
+  <a href="https://instagram.com/1887.mehdi" style="text-decoration: none; color: black; display: inline-block;">
+    <img src="https://img.icons8.com/?size=64&id=Xy10Jcu1L2Su&format=png&color=000000" alt="Instagram Icon" style="width: 50px;">
+    <p>Instagram</p>
+  </a>
 </div>
+
 
 
 
