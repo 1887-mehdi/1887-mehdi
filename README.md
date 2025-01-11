@@ -43,7 +43,7 @@ I’m working on a **lightweight, fast, and responsive WordPress theme**, ideal 
 
 Feel free to reach out to me:
 
-<div style="display: flex; align-items: center; gap: 10px;"width=100;>
+<div style="display: flex; align-items: center; gap: 10px;"width=200;>
   <img src="https://img.icons8.com/?size=20&width=100&id=CXYJjRfKlwI9&format=png&color=000000" alt="Email">
   <a href="mailto:mehdiebrahimnataj@gmail.com">mehdiebrahimnataj@gmail.com</a>
 </div>
