@@ -42,8 +42,8 @@ I’m working on a **lightweight, fast, and responsive WordPress theme**, ideal 
 ## Contact Me 📬
 
 Feel free to reach out to me:  
-- **📧 Email**:   
-- **[![telegram](https://img.icons8.com/?size=20&high=-20&id=oWiuH0jFiU0R&format=png&color=000000)](https://t.me/mehdi_1887)  Telegram**:  
+- **[!email](https://img.icons8.com/?size=20&id=108806&format=png&color=000000) Email** mehdiebrahimnataj@gmail.com:   
+- **[![telegram](https://img.icons8.com/?size=20&&id=oWiuH0jFiU0R&format=png&color=000000)](https://t.me/mehdi_1887)  Telegram**:  
 - **[![Instagram](https://img.icons8.com/?size=20&id=Xy10Jcu1L2Su&format=png&color=000000)](https://instagram.com/1887.mehdi) Instagram**: 
 
 ---
