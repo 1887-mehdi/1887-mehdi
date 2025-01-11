@@ -1,39 +1,52 @@
-# Welcome to GitHub Desktop!
+# Welcome to My GitHub Profile! 👋
 
-About Me 👋
+## About Me 🖐️
+Hi there! I’m a **frontend developer** passionate about creating **beautiful** and **functional websites**.  
+✨ I specialize in **HTML, CSS, JavaScript**, and **frameworks like jQuery**.  
+✨ I also have extensive experience with **WordPress**, enabling me to build **dynamic** and **optimized websites**.  
 
-Hi! I’m a frontend developer passionate about creating beautiful and functional websites. My expertise lies in HTML, CSS, JavaScript, and frameworks like JQuery. Additionally, I have extensive experience with WordPress, enabling me to build dynamic and optimized websites.
+---
 
-My Projects 🚀
+## My Projects 🚀
 
-What am I currently working on?
+### 🔧 **Developing an Online Store Website**  
+I’m currently building a **fully functional online store**, inspired by platforms like **Amazon**.  
+This project focuses on:  
+- 📌 Attractive design  
+- 📌 User-friendly navigation  
+- 📌 Seamless access to various features  
+Stay tuned! The project will be showcased here once it’s ready.  
 
-🔧 Developing an Online Store Website:
+### 🔧 **Custom WordPress Theme Development**  
+I’m working on a **lightweight, fast, and responsive WordPress theme**, ideal for blogs and corporate websites.  
 
-I’m currently working on building a fully functional online store, similar to platforms like Amazon. This project emphasizes an attractive design, user-friendly navigation, and seamless access to various features for customers. The completed website will be showcased here once it’s ready.
+---
 
-🔧 Custom WordPress Theme Development:
+## My Skills 💻
 
-I’m designing a lightweight, fast, and responsive WordPress theme, ideal for blogs and corporate websites.
+- **Frontend Development**: HTML5, CSS3, JavaScript (ES6+), jQuery  
+- **WordPress**: Theme & plugin development, speed optimization, database management  
+- **Tools & Technologies**: Git, Webpack, Figma, Adobe XD, Adobe Photoshop 2024  
+- **SEO & Optimization**: Website optimization for search engines and faster load times  
 
-My Skills 💻
+---
 
-    Frontend Development: HTML5, CSS3, JavaScript (ES6+), JQuery
-    WordPress: Theme and plugin development, speed optimization, database management
-    Tools & Technologies: Git, Webpack, Figma, Adobe XD, Adobe Photoshop 2024
-    SEO & Optimization: Website optimization for search engines and faster load times
+## My Goals 🌟
 
-My Goals 🌟
+- 🚀 Mastering **Next.js** and **GraphQL**  
+- 🚀 Building **high-performance web applications** with creative designs  
+- 🚀 Sharing my knowledge through **open-source projects** and tutorials  
 
-    Mastering Next.js and GraphQL
-    Building high-performance web applications with creative designs
-    Sharing my knowledge through open-source projects and tutorials
+---
 
-Contact Me 📬
+## Contact Me 📬
 
-    Email: [mehdiebrahimnataj@gmail.com]
-    Telegram: [@mehdi_1887]
-    Instagram: [1887.mehdi]
+Feel free to reach out to me:  
+- **📧 Email**: [mehdiebrahimnataj@gmail.com](mailto:mehdiebrahimnataj@gmail.com)  
+- **Telegram**: [@mehdi_1887](https://t.me/mehdi_1887)  
+- **Instagram**: [1887.mehdi](https://www.instagram.com/1887.mehdi/)  
 
-I’m always open to feedback and excited to collaborate on new projects!
+---
 
+### Why not collaborate? 🤝  
+I’m always open to feedback and excited to collaborate on **new and exciting projects**. Let’s create something awesome together!
