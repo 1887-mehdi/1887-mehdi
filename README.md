@@ -45,9 +45,9 @@ Feel free to reach out to me:
 
 | Platform      | Link                                     |
 |---------------|------------------------------------------|
-| ![Email](https://img.icons8.com/?size=20&width=100&id=CXYJjRfKlwI9&format=png&color=000000) Email | [mehdiebrahimnataj@gmail.com](mailto:mehdiebrahimnataj@gmail.com) |
-| ![Telegram](https://img.icons8.com/?size=20&&id=oWiuH0jFiU0R&format=png&color=000000) Telegram | [@mehdi_1887](https://t.me/mehdi_1887) |
-| ![Instagram](https://img.icons8.com/?size=20&id=Xy10Jcu1L2Su&format=png&color=000000) Instagram | [1887.mehdi](https://www.instagram.com/1887.mehdi/) |
+| [![Email](https://img.icons8.com/?size=20&width=100&id=CXYJjRfKlwI9&format=png&color=000000)](mailto:mehdiebrahimnataj@gmail.com) Email | [mehdiebrahimnataj@gmail.com](mailto:mehdiebrahimnataj@gmail.com) |
+| [![Telegram](https://img.icons8.com/?size=20&&id=oWiuH0jFiU0R&format=png&color=000000)](https://t.me/mehdi_1887) Telegram | [@mehdi_1887](https://t.me/mehdi_1887) |
+| [![Instagram](https://img.icons8.com/?size=20&id=Xy10Jcu1L2Su&format=png&color=000000)](https://instagram.com/1887.mehdi) Instagram | [1887.mehdi](https://www.instagram.com/1887.mehdi/) |
 
 
 
