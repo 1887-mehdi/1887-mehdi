@@ -32,7 +32,7 @@ My Goals 🌟
 Contact Me 📬
 
     Email: [mehdiebrahimnataj@gmail.com]
-    Telegram: [https://t.me/mehdi_1887/]
+    Telegram: [@mehdi_1887]
     Instagram: [1887.mehdi]
 
 I’m always open to feedback and excited to collaborate on new projects!
