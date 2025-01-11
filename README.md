@@ -42,9 +42,9 @@ I’m working on a **lightweight, fast, and responsive WordPress theme**, ideal 
 ## Contact Me 📬
 
 Feel free to reach out to me:  
-- **📧 Email**: [mehdiebrahimnataj@gmail.com](mailto:mehdiebrahimnataj@gmail.com)  
-- **Telegram**: [@mehdi_1887](https://t.me/mehdi_1887)  
-- **Instagram**: [1887.mehdi](https://www.instagram.com/1887.mehdi/)  
+- **📧 Email**:   
+- **Telegram**:  [![telegram](https://img.icons8.com/?size=60&id=oWiuH0jFiU0R&format=png&color=000000)](https://t.me/mehdi_1887) 
+- **Instagram**: [![Instagram](https://img.icons8.com/?size=60&id=Xy10Jcu1L2Su&format=png&color=000000)](https://instagram.com/1887.mehdi)
 
 ---
 
