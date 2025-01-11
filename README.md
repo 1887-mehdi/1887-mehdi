@@ -42,7 +42,7 @@ I’m working on a **lightweight, fast, and responsive WordPress theme**, ideal 
 ## 📬 Contact Me  
 ---
 
-<style>
+
   @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&family=Roboto:wght@300;400;500&display=swap');
 
   body {
@@ -98,7 +98,7 @@ I’m working on a **lightweight, fast, and responsive WordPress theme**, ideal 
     text-decoration: none;
     color: inherit;
   }
-</style>
+
 
 <div class="contact-header">Feel free to reach out to me!</div>
 
