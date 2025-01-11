@@ -55,7 +55,6 @@ Feel free to reach out to me!
     <!-- Instagram Card -->
     <a href="https://instagram.com/1887.mehdi" style="text-decoration: none; color: black; display: block; text-align: center;">
         <img src="https://img.icons8.com/?size=64&id=Xy10Jcu1L2Su&format=png&color=000000" alt="Instagram Icon" style="width: 50px; margin-bottom: 8px;">
-        
     </a>
 </div>
 
