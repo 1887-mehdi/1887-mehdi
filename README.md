@@ -54,7 +54,7 @@ Feel free to reach out to me:
 </div>
 
 <div style="display: flex; align-items: center; gap: 10px;">
-  <img src="https://img.icons8.com/?size=20&id=Xy10Jcu1L2Su&format=png&color=000000" alt="Instagram">
+  <img src="https://img.icons8.com/?size=20&id=Xy10Jcu1L2Su&format=png&color=000000" alt="Instagram  https://instagram.com/1887.mehdi">
   <a href="https://instagram.com/1887.mehdi">1887.mehdi</a>
 </div>
 
