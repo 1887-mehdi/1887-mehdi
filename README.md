@@ -42,7 +42,7 @@ I’m working on a **lightweight, fast, and responsive WordPress theme**, ideal 
 ## 📬 Contact Me  
 ---
 
-<div align="center" style="margin-bottom: 20px;">
+<div align="center" style="margin-bottom: 20px;"color="red">
     <h3>Feel free to reach out to me!</h3>
 </div>
 
