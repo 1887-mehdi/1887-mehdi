@@ -41,31 +41,40 @@ I’m working on a **lightweight, fast, and responsive WordPress theme**, ideal 
 
 ## 📬 Contact Me  
 
-<div align="center" style="margin-bottom: 20px;">
+
+<div align="center" style="margin-bottom: 20px;"color="red">
     <h3>Feel free to reach out to me!</h3>
 </div>
 
-<div style="display: flex; justify-content: space-between; align-items: center; gap: 20px; flex-wrap: wrap;">
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
     
-  <!-- Email Card (Left) -->
-  <div style="border: 1px solid #ddd; border-radius: 8px; padding: 10px; text-align: center; width: 150px; flex: 0;">
-      <img src="https://img.icons8.com/?size=64&width=100&id=CXYJjRfKlwI9&format=png&color=000000" alt="Email Icon" style="width: 50px; margin-bottom: 8px;">
-      <p style="font-size: 14px;">mehdiebrahimnataj@gmail.com</p>
+  <!-- Email Card -->
+  <div style="border: 1px solid #ddd; border-radius: 8px; padding: 10px; text-align: center; width: 150px;">
+      <a href="mailto:mehdiebrahimnataj@gmail.com" style="text-decoration: none; color: black;">
+          <img src="https://img.icons8.com/?size=64&width=100&id=CXYJjRfKlwI9&format=png&color=000000" alt="Email Icon" style="width: 50px; margin-bottom: 8px;">
+          <p style="font-size: 14px;">mehdiebrahimnataj@gmail.com</p>
+      </a>
   </div>
   
-  <!-- Telegram Card (Center) -->
-  <div style="border: 1px solid #ddd; border-radius: 8px; padding: 10px; text-align: center; width: 150px; flex: 0;">
-      <img src="https://img.icons8.com/?size=64&id=oWiuH0jFiU0R&format=png&color=000000" alt="Telegram Icon" style="width: 50px; margin-bottom: 8px;">
-      <p style="font-size: 14px;">@mehdi_1887</p>
+  <!-- Telegram Card -->
+  <div style="border: 1px solid #ddd; border-radius: 8px; padding: 10px; text-align: center; width: 150px;">
+      <a href="https://t.me/mehdi_1887" style="text-decoration: none; color: black;">
+          <img src="https://img.icons8.com/?size=64&id=oWiuH0jFiU0R&format=png&color=000000" alt="Telegram Icon" style="width: 50px; margin-bottom: 8px;">
+          <p style="font-size: 14px;">@mehdi_1887</p>
+      </a>
   </div>
   
-  <!-- Instagram Card (Right) -->
-  <div style="border: 1px solid #ddd; border-radius: 8px; padding: 10px; text-align: center; width: 150px; flex: 0;">
-      <img src="https://img.icons8.com/?size=64&id=Xy10Jcu1L2Su&format=png&color=000000" alt="Instagram Icon" style="width: 50px; margin-bottom: 8px;">
-      <p style="font-size: 14px;">1887.mehdi</p>
+  <!-- Instagram Card -->
+  <div style="border: 1px solid #ddd; border-radius: 8px; padding: 10px; text-align: center; width: 150px;">
+      <a href="https://instagram.com/1887.mehdi" style="text-decoration: none; color: black;">
+          <img src="https://img.icons8.com/?size=64&id=Xy10Jcu1L2Su&format=png&color=000000" alt="Instagram Icon" style="width: 50px; margin-bottom: 8px;">
+          <p style="font-size: 14px;">1887.mehdi</p>
+      </a>
   </div>
 
 </div>
+
+
 
 
 
